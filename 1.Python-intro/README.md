@@ -13,7 +13,7 @@
     - 2008 - Python 3.0 - 
     #### Why Learn Python :thinking: ?
     - Growing Popularity
-    - ** Python Philosophy **
+    - **Python Philosophy**
     - - Beautiful is better than ugly
     - - Explicit is better than implicit
     - - simple is better than complex
@@ -28,25 +28,25 @@
     - Culture
 
 ## When and where is python used :thinking: ?
-- ** Linux scripting / administration **
+- **Linux scripting / administration**
 - - files
 - - configurations
 - - processes
 - - applications
 - - Testing
-- ** Web Development **
-- - ** APIs **
+- **Web Development**
+- - **APIs**
     - - Flask
     - - Bottle
-- - ** Websites **
+- - **Websites**
     - - Django
     - - Web2Py
-- - ** ERP or CMS **
+- - **ERP or CMS**
     - - Django-CMS
     - - Plone
-- ** Application Scripting
+- **Application Scripting**
 - - blender
-- ** Data Science **
+- **Data Science**
 - - Big Data
 - - Machine Learning
 
@@ -57,17 +57,17 @@
 
 
 - ## Python 2 VS Python 3 :thinking: ?
-- ** Python 2 **
+- **Python 2**
 - - pip, python, ipython
 - - python 2 is legacy
-- ** Python 3 **
+- **Python 3**
 - - pip3, python3, ipython3
 - - python 3 is Default
 
 - ## Executing python code :thinking: ?
-- - ** Python interpretor **
+- - **Python interpretor**
     - python3 hello.py
-- - ** REPL **
+- - **REPL**
     - run code in REPL i.e 2+2
-- - ** Natively **
+- - **Natively**
     - make .exe file using
